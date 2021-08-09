@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @carlobisda
-- 👀 I’m interested in scuffed tech projects and exploits.
-- 🌱 I’m currently learning mql4, python, assembly & kali linux.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: smoke signals or morse code. XD
+- 👀 I’m interested in problem solving.
+- 🌱 I’m reasonable with mql4, python and some scripting. 
+- 💞️ I’m learning javascript, assembly & security focused 'nix variants.
+- 📫 How to reach me: smoke signals or morse code.
 
 <!---
 carlobisda/carlobisda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
