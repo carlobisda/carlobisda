@@ -3,7 +3,6 @@
 - 🌱 I’m reasonable with MQL4, Python and some scripting. 
 - 💞️ I’m learning data engineering, C (and C++), cybersec & ArchLinux (Arco is my current flavour).
 - 📫 How to reach me: smoke signals or morse code.
-- 🚀 carlobisda.github.io
 
 <!---
 carlobisda/carlobisda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
