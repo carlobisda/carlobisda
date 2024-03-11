@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carlobisda
 - 👀 I’m interested in problem solving using RAD tools.
-- 🌱 I’m reasonable with MQL4, Python and some scripting. 
-- 💞️ I’m learning data engineering, C (and C++), cybersec & ArchLinux (Arco is my current flavour).
+- 🌱 I’m reasonable with Python, MQL4, and some scripting. 
+- 💞️ I’m learning data engineering, C (and C++), OSINT, RE & ArchLinux (Manjaro XFCE is my current flavour).
 - 📫 How to reach me: smoke signals or morse code.
 
 <!---
